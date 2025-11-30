@@ -4,7 +4,7 @@
 ### Curso: Big Data e Inteligência Artificial
 
 
-#### Acesso ao notebook via colab: https://colab.research.google.com/drive/1IgHJiieC1wEktxMvCgHg9J2FvHtgBZh9?authuser=7#scrollTo=Fh9MMPj7iMl-
+#### Acesso ao notebook via colab: [https://colab.research.google.com/drive/1IgHJiieC1wEktxMvCgHg9J2FvHtgBZh9?authuser=7#scrollTo=Fh9MMPj7iMl-](https://colab.research.google.com/drive/1IgHJiieC1wEktxMvCgHg9J2FvHtgBZh9?usp=sharing)
 
 
 ---
