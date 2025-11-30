@@ -78,6 +78,14 @@ O modelo classifica as linhas de transporte em 5 categorias:
 
 > **Observação:** O dataset apresenta desbalanceamento significativo, com predominância da classe "Convencional".
 
+<img width="1521" height="533" alt="image" src="https://github.com/user-attachments/assets/c7a28a06-4082-4812-913a-c804b61b7e84" />
+
+<img width="840" height="709" alt="image" src="https://github.com/user-attachments/assets/ef71a257-bf80-4665-bb29-087d0b0d1b8b" />
+
+
+
+
+
 ---
 
 ### Arquitetura do Modelo MLP
