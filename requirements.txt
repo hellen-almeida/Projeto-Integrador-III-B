@@ -1,0 +1,20 @@
+# Projeto Integrador III-B - Deep Learning
+# Classificação de Linhas de Transporte Intermunicipal
+# PUC Goiás - Big Data e Inteligência Artificial
+
+# Manipulação de dados
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualização
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning / Pré-processamento
+scikit-learn>=1.2.0
+
+# Deep Learning
+tensorflow>=2.10.0
+
+# Utilitários
+pickle-mixin>=1.0.2

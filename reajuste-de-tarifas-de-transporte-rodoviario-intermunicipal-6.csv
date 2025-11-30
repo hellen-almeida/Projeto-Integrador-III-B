@@ -1,0 +1,103 @@
+ANO;ICMS;Tipo de Serviço;Fator de Correlação Tarifária;Coeficientes Tarifários (R$/Pas*km);RESOLUÇÃO
+2024;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,305343;Reajuste Tarifário 2024
+2024;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,403004;Reajuste Tarifário 2024
+2024;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,459089;Reajuste Tarifário 2024
+2024;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,378922;Reajuste Tarifário 2024
+2024;SEM;Serviço Semileito;1,37000 x convencional tipo I;0,41832;Reajuste Tarifário 2024
+2024;SEM;Serviço Leito;2,27000 x convencional tipo I;0,693129;Reajuste Tarifário 2024
+2024;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,2264;Reajuste Tarifário 2024
+2024;19%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,376967;Reajuste Tarifário 2024
+2024;19%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,497536;Reajuste Tarifário 2024
+2024;19%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,566777;Reajuste Tarifário 2024
+2024;19%;Serviço Expresso;1,24097 x convencional tipo I;0,467804;Reajuste Tarifário 2024
+2024;19%;Serviço Semileito;1,37000 x convencional tipo I;0,516444;Reajuste Tarifário 2024
+2024;19%;Serviço Leito;2,27000 x convencional tipo I;0,855714;Reajuste Tarifário 2024
+2023 §1;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);CCt ;0,289716;Reajuste Tarifário 2023
+2023 §1;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x CCt;0,382379;Reajuste Tarifário 2023
+2023 §1;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x CCt;0,435594;Reajuste Tarifário 2023
+2023 §1;SEM;Serviço Expresso;1,24097 x CCt;0,359529;Reajuste Tarifário 2023
+2023 §1;SEM;Serviço Semileito;1,37000 x CCt;0,396911;Reajuste Tarifário 2023
+2023 §1;SEM;Serviço Leito;2,27000 x CCt;0,657656;Reajuste Tarifário 2023
+2023 §1;SEM;Serviço Semiurbano;0,74146 x CCt;0,214813;Reajuste Tarifário 2023
+2023 §1;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada); CCt;0,349056;Reajuste Tarifário 2023
+2023 §1;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x CCt;0,460698;Reajuste Tarifário 2023
+2023 §1;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x CCt;0,524812 ;Reajuste Tarifário 2023
+2023 §1;17%;Serviço Expresso;1,24097 x CCt;0,433168;Reajuste Tarifário 2023
+2023 §1;17%;Serviço Semileito;1,3700 x CCt;0,478206;Reajuste Tarifário 2023
+2023 §1;17%;Serviço Leito;2,27000 x CCt;0,792356;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);CCt ;0,299934;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x CCt;0,395865;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x CCt;0,450957;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Expresso;1,24097 x CCt;0,372209;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Semileito;1,37000 x CCt;0,41091;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Leito;2,27000 x CCt;0,680851;Reajuste Tarifário 2023
+2023 § 2;SEM;Serviço Semiurbano;0,74146 x CCt;0,222389;Reajuste Tarifário 2023
+2023 § 2;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);CCt ;0,361367;Reajuste Tarifário 2023
+2023 § 2;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x CCt;0,476946;Reajuste Tarifário 2023
+2023 § 2;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x CCt;0,543322 ;Reajuste Tarifário 2023
+2023 § 2;17%;Serviço Expresso;1,24097 x CCt;0,448445;Reajuste Tarifário 2023
+2023 § 2;17%;Serviço Semileito;1,37000 x    CCt;0,495072;Reajuste Tarifário 2023
+2023 § 2;17%;Serviço Leito;2,27000 x CCt;0,820302;Reajuste Tarifário 2023
+2022;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,28542;Reajuste Tarifário 2022
+2022;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,376709;Reajuste Tarifário 2022
+2022;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,429134;Reajuste Tarifário 2022
+2022;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,354197;Reajuste Tarifário 2022
+2022;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,211627;Reajuste Tarifário 2022
+2022;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,343879;Reajuste Tarifário 2022
+2022;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,453866;Reajuste Tarifário 2022
+2022;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,517029 ;Reajuste Tarifário 2022
+2022;17%;Serviço Expresso;1,24097 x convencional tipo I;0,426744;Reajuste Tarifário 2022
+2021;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,207091;Processo nº 202100029002495
+2021;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,273327;Processo nº 202100029002495
+2021;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,311365;Processo nº 202100029002495
+2021;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,256994;Processo nº 202100029002495
+2021;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,15355;Processo nº 202100029002495
+2021;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,249507;Processo nº 202100029002495
+2021;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,32931;Processo nº 202100029002495
+2021;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,375139;Processo nº 202100029002495
+2021;17%;Serviço Expresso;1,24097 x convencional tipo I;0,309631;Processo nº 202100029002495
+2019;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,197331;Processo nº 201900029004463
+2019;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,260446;Processo nº 201900029004463
+2019;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,296692;Processo nº 201900029004463
+2019;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,244882;Processo nº 201900029004463
+2019;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,146313;Processo nº 201900029004463
+2019;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,237749;Processo nº 201900029004463
+2019;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,31379;Processo nº 201900029004463
+2019;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,35746;Processo nº 201900029004463
+2019;17%;Serviço Expresso;1,24097 x convencional tipo I;0,295039;Processo nº 201900029004463
+2018;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,188064;Processo nº 201800029004006
+2018;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,248214;Processo nº 201800029004006
+2018;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,282758;Processo nº 201800029004006
+2018;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,233382;Processo nº 201800029004006
+2018;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,139442;Processo nº 201800029004006
+2018;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,226583;Processo nº 201800029004006
+2018;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,299053;Processo nº 201800029004006
+2018;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,340672;Processo nº 201800029004006
+2018;17%;Serviço Expresso;1,24097 x convencional tipo I;0,281183;Processo nº 201800029004006
+2017;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,188064;Reajuste Tarifário 2017
+2017;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,248214;Reajuste Tarifário 2017
+2017;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,282758;Reajuste Tarifário 2017
+2017;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,233382;Reajuste Tarifário 2017
+2017;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,139442;Reajuste Tarifário 2017
+2017;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,226583;Reajuste Tarifário 2017
+2017;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,299053;Reajuste Tarifário 2017
+2017;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,340672;Reajuste Tarifário 2017
+2017;17%;Serviço Expresso;1,24097 x convencional tipo I;0,281183;Reajuste Tarifário 2017
+2016;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,179707;Reajuste Tarifário 2016
+2016;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,237184;Reajuste Tarifário 2016
+2016;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,270192;Reajuste Tarifário 2016
+2016;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,223011;Reajuste Tarifário 2016
+2016;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,133245;Reajuste Tarifário 2016
+2016;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,216514;Reajuste Tarifário 2016
+2016;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,285764;Reajuste Tarifário 2016
+2016;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,325533;Reajuste Tarifário 2016
+2016;17%;Serviço Expresso;1,24097 x convencional tipo I;0,268687;Reajuste Tarifário 2016
+2013;SEM;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,157965;Reajuste Tarifário 2013
+2013;SEM;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,208488;Reajuste Tarifário 2013
+2013;SEM;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,237503;Reajuste Tarifário 2013
+2013;SEM;Serviço Expresso;1,24097 x convencional tipo I;0,19603;Reajuste Tarifário 2013
+2013;SEM;Serviço Semiurbano;0,74146 x convencional tipo I;0,117125;Reajuste Tarifário 2013
+2013;17%;Serviço Convencional, em rodovia tipo I (rodovia pavimentada);;0,190319;Reajuste Tarifário 2013
+2013;17%;Serviço Convencional, em rodovia tipo II (rodovia encascalhada);1,31984 x convencional tipo I;0,251191;Reajuste Tarifário 2013
+2013;17%;Serviço Convencional, em rodovia tipo III (rodovia pioneira);1,50352 x convencional tipo I;0,286148;Reajuste Tarifário 2013
+2013;17%;Serviço Expresso;1,24097 x convencional tipo I;0,23618;Reajuste Tarifário 2013
